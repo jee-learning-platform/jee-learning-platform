@@ -32,10 +32,11 @@ Master Physics & Mathematics through:
 ## 📚 Explore Subjects
 
 ### 🧮 Mathematics
-- [Algebra](./mathematics/algebra/)
-- [Calculus](./mathematics/calculus/)
-- [Coordinate Geometry](./mathematics/coordinate-geometry/)
-- [Vectors & 3D](./mathematics/vectors-3d/)
+TO BE ADDED SOON
+""- [Algebra](./mathematics/algebra/)
+""- [Calculus](./mathematics/calculus/)
+""- [Coordinate Geometry](./mathematics/coordinate-geometry/)
+""- [Vectors & 3D](./mathematics/vectors-3d/)
 
 👉 Includes:
 - Notes
