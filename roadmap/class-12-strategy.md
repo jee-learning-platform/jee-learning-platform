@@ -59,10 +59,10 @@ Focus Topics:
 
 ## 🔁 Daily Routine
 
-- 2–3 hrs Physics
-- 2–3 hrs Maths
-- 1 hr Revision
-- 1 hr Class 11 revision (VERY IMPORTANT)
+- 2-3 hours Physics
+- 2-3 hours Maths
+- 1 hour Revision
+- 1 hour Class 11 revision (VERY IMPORTANT)
 
 ---
 
@@ -85,7 +85,7 @@ Focus Topics:
 
 ## 🧠 Milestones
 
-- Month 3 → Syllabus 30–40% done
+- Month 3 → Syllabus 30-40% done
 - Month 6 → 70% completion
 - Month 9 → Full syllabus done
 - Last 3 months → Revision + mocks

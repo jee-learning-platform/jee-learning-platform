@@ -79,8 +79,8 @@ Focus:
 
 ## 🔥 Mock Test Strategy
 
-- Start after 60–70% syllabus
-- 1 test/week → then 2–3/week
+- Start after 60-70% syllabus
+- 1 test/week → then 2-3/week
 - Analyze deeply
 
 ---

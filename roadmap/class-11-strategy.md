@@ -62,7 +62,7 @@ Focus Topics:
 - 2 hours Physics
 - 2 hours Maths
 - 1 hour Revision
-- 20–30 problems per subject
+- 20-30 problems per subject
 
 ---
 
