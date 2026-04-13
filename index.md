@@ -31,32 +31,19 @@ Master Physics & Mathematics through:
 
 ## 📚 Explore Subjects
 
-### 🧮 Mathematics
-- [Algebra](./mathematics/algebra/)
-- [Calculus](./mathematics/calculus/)
-- [Coordinate Geometry](./mathematics/coordinate-geometry/)
-- [Vectors & 3D](./mathematics/vectors-3d/)
+---
 
-👉 Includes:
-- Notes
-- Solved Examples
-- Problem Sets
-- Visualizations
+### 🧮 Mathematics
 
 ---
 
 ### ⚡ Physics
-- [Mechanics](./physics/mechanics/)
-- [Electricity & Magnetism](./physics/electricity-magnetism/)
-- [Optics](./physics/optics/)
-- [Modern Physics](./physics/modern-physics/)
 
-👉 Includes:
-- Concept Notes
-- Numericals
-- Simulations
+---
 
 ## 🧠 Practice Zone
+
+---
 
 ### 📊 PYQs (Previous Year Questions)
 - [JEE Main](./pyqs/jee-main/)
@@ -74,24 +61,7 @@ Master Physics & Mathematics through:
 
 Watch full lectures and problem-solving sessions:
 
-👉 [YouTube Channel](https://youtube.com/your-channel)
-
-### Latest Videos
-- Limits & Continuity (JEE)
-- NLM Problem Solving
-- Electrostatics Basics
-
-## 🧩 Interactive Learning Tools
-
-### 🧮 Math Lab
-- Graph Visualizations
-- Calculus Intuition
-- Function Explorers
-
-### ⚡ Physics Lab
-- Projectile Motion Simulator
-- Circuit Visualizer
-- Wave Simulations
+👉 [YouTube Channel](https://www.youtube.com/@SuperSimpleLearningHub)
 
 ## ✍️ Strategy & Guidance
 
