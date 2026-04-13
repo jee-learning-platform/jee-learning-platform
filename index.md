@@ -101,9 +101,9 @@ Watch full lectures and problem-solving sessions:
 
 ## 👨‍🏫 About the Instructor
 
-Hi, I’m Soumya — helping students master:
-- IIT JEE Mathematics & Physics
-- Board Exams (CBSE/ICSE)
+- IIT Madras Alumni (B.Tech - EE)
+- 2 decades of corporate experience
+- Guiding and mentoring students since last 5 years
 
 Focus:
 - Concept clarity
