@@ -21,28 +21,6 @@ Master Physics & Mathematics through:
 - [Class 10](../ncert-math-tools)
 - [Class 11](../ncert-physics-tools)
 - [Class 12](../ncert-math-tools)
-
----
-
-### 🎯 Quick Revision
-- Formula Sheets
-- PYQs
-- Short Notes
-
-## 📚 Explore Subjects
-
----
-
-### 🧮 Mathematics
-
----
-
-### ⚡ Physics
-
----
-
-## 🧠 Practice Zone
-
 ---
 
 ### 📊 PYQs (Previous Year Questions)
@@ -53,9 +31,6 @@ Master Physics & Mathematics through:
 - [Class 11](./assignments/class-11/)
 - [Class 12](./assignments/class-12/)
 
-### 🔥 Advanced Problem Sets
-- Topic-wise Practice
-- Level-wise (Basic → Advanced)
 
 ## 🎥 Learn with Video Lectures
 
